@@ -8,7 +8,7 @@ error_reporting(E_ALL);
 $host = 'db4free.net';
 $user = 'quizkar34';
 $pass = 'quizkar1834';
-$db   = 'quizKar34';
+$db   = 'quizkar34';
 
 $conn = mysqli_connect($host, $user, $pass, $db);
 
