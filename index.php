@@ -41,7 +41,6 @@ session_start();
   <div>
     <a href="login.php" class="btn">Login</a>
     <a href="register.php" class="btn">Register</a>
-    <a href="dashboard.php" class="btn">Dashboard</a>
   </div>
 
 </body>
