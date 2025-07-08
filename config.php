@@ -5,10 +5,11 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
 // DB connection
-$host = 'sql.freesqldatabase.com';
-$user = 'sql7788896';
-$pass = 'mlVnEfKEwX';
-$db   = 'sql7788896';
+$host = 'mysql.railway';
+$user = 'root';
+$pass = 'NpZjSRWxZNqzZhkGYrCNXNaiHwErmgyY';
+$db   = 'railway';
+$port = '3306';
 
 $conn = mysqli_connect($host, $user, $pass, $db);
 
