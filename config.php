@@ -5,7 +5,7 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
 // DB connection
-$host = 'mysql.railway';
+$host = 'mysql.railway.internal';
 $user = 'root';
 $pass = 'NpZjSRWxZNqzZhkGYrCNXNaiHwErmgyY';
 $db   = 'railway';
