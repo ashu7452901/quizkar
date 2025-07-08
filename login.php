@@ -1,6 +1,6 @@
 <?php
 session_start();
-include('../config.php'); // ✅ fix kiya path
+include('config.php'); // ✅ fix kiya path
 
 $error = "";
 
