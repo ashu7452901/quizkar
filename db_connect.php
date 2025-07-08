@@ -1,8 +1,8 @@
 <?php
-$host = 'localhost';
-$user = 'root';
-$pass = '';
-$dbname = 'QuizKar'; // yahi aapke database ka naam hona chahiye
+$host = 'db4free.net';
+$user = 'quizkar34';
+$pass = 'quizkar1834';
+$dbname = 'quizKar34'; // yahi aapke database ka naam hona chahiye
 
 $conn = new mysqli($host, $user, $pass, $dbname);
 
