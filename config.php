@@ -5,10 +5,10 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
 // DB connection
-$host = 'db4free.net';
-$user = 'quizkar34';
-$pass = 'quizkar1834';
-$db   = 'quizkar34';
+$host = 'sql.freesqldatabase.com';
+$user = 'sql7788896';
+$pass = 'mlVnEfKEwX';
+$db   = 'sql7788896';
 
 $conn = mysqli_connect($host, $user, $pass, $db);
 
